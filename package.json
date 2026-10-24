@@ -58,8 +58,8 @@
     "react-test-renderer": "^19.2.8",
     "replace-in-files": "^3.0.0",
     "typescript": "^5.9.3",
-    "vite": "^7.1.12",
-    "vitest": "^4.1.7",
+    "vite": "^7.3.7",
+    "vitest": "^4.1.12",
     "vitest-axe": "^1.0.0-pre.5"
   },
   "packageManager": "pnpm@11.5.0"
